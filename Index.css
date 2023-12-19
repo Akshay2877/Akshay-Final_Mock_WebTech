@@ -1,0 +1,209 @@
+
+.mdiv{
+
+    height: 600px;
+    width: 100%;
+    background-color: aliceblue;
+    /* border: 3px solid black; */
+}
+.div1{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.div2{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(227, 152, 227);
+}
+.div3{
+    height: 570px;
+    width: 100%;
+    background-color: aliceblue;
+}
+ .name{
+    padding-left: 50px;
+    margin-top: -38px;
+}
+
+.navbar{
+    background-color: white;
+    height: 25px;
+    display: flex;
+    padding-left: 400px;
+    
+    
+}
+.image{
+
+    background-image: url("https://buraqstore.com/wp-content/uploads/2022/04/new-arrival.webp");
+    height: 400px;
+   
+    width: 1100px;
+    margin-top: 75px;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    margin-left: 70px;
+}
+/* .image:hover{
+    /* background-image: url("https://www.shutterstock.com/image-vector/yellow-new-arrival-banner-store-260nw-2242286315.jpg"); */
+    /* background: url("https://st4.depositphotos.com/6923920/41187/i/450/depositphotos_411877068-stock-photo-fashion-sale-banner-design-template.jpg");
+    height: 300px;
+    margin-top: 25px;
+    width: 500px;
+    margin-left: 120px;
+    border-top-right-radius: 50px; 
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px; */
+
+/* } */ 
+
+.img1{
+    padding-top: 20px;
+    margin-left: 32px;
+    border-radius: 10px;
+}
+.img2{
+    padding-left: 155px;
+    border-radius: 10px;
+}
+.img3{
+    padding-left: 170px;
+    border-radius: 10px;
+}
+.img4{
+    padding-left: 210px;
+    border-radius: 10px;
+}
+.img5{
+    padding-left: 215px;
+    border-radius: 10px;
+}
+
+
+.bottomimg{
+    padding-left: 30px;
+    
+}
+.bottomimg1{
+    border-radius: 20px;
+    border: 5px solid white;
+}
+.bottomimg2{
+    border-radius: 20px;
+    margin-left: 130px;
+    border: 5px solid white;
+}
+.bottomimg3{
+    border-radius: 20px;
+    margin-left: 120px;
+    border: 5px solid white;
+}
+.new{
+    padding-left: 15px;
+    font-family: cursive;
+    padding-top: 15px;
+    margin-top: 0%;
+}
+.main{
+    width: 100%;
+}
+.shirt{
+    padding-left: 125px;
+    font-weight: bold;
+    font-size: x-large;
+}
+.t-shirt
+{
+    padding-left: 570px;
+    margin-top: -54px;
+    font-weight: bold;
+    font-size: x-large;
+}
+.cargos{
+    padding-left: 1005px;
+    margin-top: -50px;
+    font-weight: bold;
+    font-size: x-large;
+}
+.btn1{
+    box-sizing: border-box;
+    background-color: aquamarine;    
+    margin-left: 125px;
+}
+.btn2{
+    box-sizing: border-box;
+    background-color: aquamarine;    
+    margin-left: 380px;
+}
+.btn3{
+    box-sizing: border-box;
+    background-color: aquamarine;  
+    margin-left: 360px;  
+}
+.div1
+{
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    height: 45px;
+    width: 100%;
+    background-color: black;
+    color: rgb(250, 248, 248);
+    
+    display: flex;
+}
+
+#Logo 
+{
+    color: rgb(240, 224, 10);
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+ul 
+{
+    display: flex;
+    list-style: none;
+    margin-left: 550px;
+    line-height: 10px;
+}
+
+ul li 
+{
+    margin-left: 30px;
+    font-variant: small-caps;
+    cursor: pointer;
+    font-size: 20px;
+    transition-duration: 1s;
+    
+}
+
+ul li:hover
+{
+    /* color: yellow; */
+    text-shadow: 1px 1px 5px white;
+    transform: scale(1.1);
+}
+
+ul li button 
+{
+    margin-top: -70px;
+    background-color: black;
+    color: white;
+    border: none;
+    box-shadow: 0px 0px 3px rgb(190, 189, 184);
+    padding: 6px 17px;
+    font-size: 10px;
+    font-weight: bold;
+    transition-duration: 2s;
+    font-variant: small-caps;
+    border-radius: 10px;
+}
+
+ul li button:hover 
+{
+    background-color: white;
+    color: black;
+}
